@@ -1,6 +1,8 @@
-# Project About Remove Frauda And Difficulties during sell and buy property.
+# Land Registry using Blockchain.
 
-This project is a basic land registration smart contract on the Ethereum blockchain. It allows users to register, verify, and reject sellers, buyers, and land registration. The project is written in Solidity, and the contract has been tested using the Solidity compiler version 0.8.17.
+The real estate industry has always been vulnerable to fraudulent land transactions and falsified documentation which can lead to large losses. In this project, our goal is to implement a secure system to keep records of transactions. It should allow authorized parties to access documentation quickly.
+
+This project is a basic land registration smart contract on the Ethereum blockchain. It allows users to register, verify, and reject sellers, buyers, and land registration. The project is written in Solidity.
 
 ### How to Use
 #### Contract Deployment
@@ -49,7 +51,3 @@ Once the contract is deployed, you can interact with it using a Web3-enabled bro
 - The contract uses mappings to store the details of buyers, sellers, and land registrations.
 
 - The contract uses the require statement to ensure that only verified sellers, buyers, and land registrations can interact with the contract.
-
-#### License
-- This project is licensed under the MIT License.
-
