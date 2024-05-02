@@ -1,6 +1,6 @@
 # Land Registry using Blockchain.
 
-The real estate industry has always been vulnerable to fraudulent land transactions and falsified documentation which can lead to large losses. In this project, our goal is to implement a secure system to keep records of transactions. It should allow authorized parties to access documentation quickly.
+The real estate industry has always been vulnerable to fraudulent land transactions and falsified documentation which can lead to large losses. In this project, my goal is to implement a secure system to keep records of transactions. It should allow authorized parties to access documentation quickly.
 
 This project is a basic land registration smart contract on the Ethereum blockchain. It allows users to register, verify, and reject sellers, buyers, and land registration. The project is written in Solidity.
 
